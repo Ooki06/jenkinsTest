@@ -1,4 +1,3 @@
-
 from polls.settings import *
 import os
 
